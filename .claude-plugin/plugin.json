@@ -1,0 +1,19 @@
+{
+  "name": "storm-research",
+  "version": "0.1.0",
+  "description": "Research a topic as a panel of perspectives you approve first, grounded in web search, with the disagreements kept in the write-up.",
+  "author": {
+    "name": "MEDiAGATO",
+    "url": "https://github.com/mediagato"
+  },
+  "homepage": "https://github.com/mediagato/storm-research",
+  "repository": "https://github.com/mediagato/storm-research",
+  "license": "MIT",
+  "keywords": [
+    "claude-skill",
+    "agent-skills",
+    "research",
+    "storm",
+    "claude-code"
+  ]
+}
